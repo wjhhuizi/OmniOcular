@@ -1,2 +1,26 @@
 omniocular.info.NotHolding = "无手持物品"
 omniocular.info.NotPointing = "无指向对象"
+
+hud.msg.common.LiquidAmount= "液体数量"
+hud.msg.common.StorageFluid= "液体种类"
+hud.msg.common.BurnTime= "燃烧时间"
+
+hud.msg.AWWayofTime.Capacity=Capacity
+hud.msg.AWWayofTime.Process=Process
+hud.msg.AWWayofTime.ProcessSpeed=Process Speed
+hud.msg.AWWayofTime.IOSpeed=IO Speed
+hud.msg.AWWayofTime.OrbCapacity=Orb Capacity
+hud.msg.AWWayofTime.Sacrifice=Sacrifice
+hud.msg.AWWayofTime.SelfSacrifice=Self-Sacrifice
+hud.msg.AWWayofTime.RitualID=Ritual ID
+hud.msg.AWWayofTime.RitualOwner=Ritual Owner
+hud.msg.AWWayofTime.Require=Require
+
+hud.msg.Botania.Mana= "法力值"
+
+hud.msg.BuildCraftCore.MaxEnergyReceive= "最大接收能量"
+hud.msg.BuildCraftCore.Recipe=Recipe
+hud.msg.BuildCraftCore.Pattern=Pattern
+
+hud.msg.EnderIO.Experience=Experience
+hud.msg.EnderIO.SpawnChance= "生成概率"
